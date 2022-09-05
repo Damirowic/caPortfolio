@@ -8,3 +8,4 @@ sentence += ' ';
 let y = Math.floor(Math.random() * adjective2.length);
 sentence += adjective1[y];
 sentence += ' ';
+let z = Math.floor(Math.random() * noun.length);
